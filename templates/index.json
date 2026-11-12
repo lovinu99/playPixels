@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "heart",
+      "name": "Ruby Heart",
+      "width": 8,
+      "height": 8,
+      "path": "templates/heart/template.json",
+      "preview": "templates/heart/preview.png",
+      "description": "Ruby Heart (8×8)"
+    },
+    {
+      "id": "duck",
+      "name": "Pixel Duck",
+      "width": 10,
+      "height": 10,
+      "path": "templates/duck/template.json",
+      "preview": "templates/duck/preview.png",
+      "description": "Pixel Duck (10×10)"
+    },
+    {
+      "id": "sword",
+      "name": "Knight Sword",
+      "width": 12,
+      "height": 12,
+      "path": "templates/sword/template.json",
+      "preview": "templates/sword/preview.png",
+      "description": "Knight Sword (12×12)"
+    },
+    {
+      "id": "slime",
+      "name": "Blue Slime",
+      "width": 16,
+      "height": 12,
+      "path": "templates/slime/template.json",
+      "preview": "templates/slime/preview.png",
+      "description": "Blue Slime (16×12)"
+    }
+  ]
+}
